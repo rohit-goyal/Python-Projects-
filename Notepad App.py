@@ -150,10 +150,10 @@ def about_notepad():
     info.grid(row=0, column=0)
 
     info_label = Label(info,
-                       text='DAP Notepad is an app developed by Dhruva Srinivas.\n It is an open-sourced notepad application.\n'
+                       text='DAP Notepad is an app developed by Rohit Goyal.\n It is an open-sourced notepad application.\n'
                             'It was developed using Python and Tkinter.\n The data was stored in SQLite3 databases.\n It\'s'
                             ' main features include easy accessibility, user-friendliness and speed.\n Enjoy! \n From The '
-                            'Creator - Dhruva Srinivas', fg='black', bg='white')
+                            'Creator - Rohit Goyal', fg='black', bg='white')
 
     info_label.grid(row=0, column=0, padx=10, pady=10)
 
